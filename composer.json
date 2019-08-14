@@ -1,5 +1,5 @@
 {
-  "name": "internetrix/bannerslider-magento2",
+  "name": "internetrix/module-bannerslider",
   "description": "N/A",
   "require": {
     "php": ">=7.0"
